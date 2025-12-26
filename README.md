@@ -12,6 +12,12 @@ The system heavily relies on **advanced Go concurrency mechanisms** to achieve s
 
 - **Android Support**  
   Fully supported on Android **phones and tablets** with high performance.
+  ## 📥 Download & Installation
+You can download the latest version of the Android Application from the [Releases](link-to-your-release-page) section.
+
+1. Download the `app-release.apk`.
+2. Enable "Install from Unknown Sources" on your Android device.
+3. Install and enjoy secure, temporary chatting!
 
 - **Platform Compatibility**  
   Supports **open platforms (Android)**.  

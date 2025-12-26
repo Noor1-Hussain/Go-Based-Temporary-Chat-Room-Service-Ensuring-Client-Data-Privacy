@@ -1,4 +1,4 @@
-# 🛡️ TEMPORARY ROOM  
+# 🛡️ Temporary Rooms   
 ## Secure & Concurrent Chat Service
 
 **TEMPORARY ROOM** is a high-performance real-time chat application built with **Go**.  
